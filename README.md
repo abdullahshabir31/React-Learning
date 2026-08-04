@@ -1,0 +1,97 @@
+# ⚛️ React Learning
+
+A structured React learning repository documenting my journey from React fundamentals to building modern, real-world applications. This repository is organized topic-by-topic with hands-on examples and mini projects to strengthen React development skills.
+
+---
+
+# 📖 About
+
+This repository contains my React practice programs, component-based examples, exercises, and mini projects. Every topic is organized into separate folders, making it easy to learn React step by step while maintaining a clean and well-structured GitHub repository.
+
+---
+
+# 📂 Repository Structure
+
+```text
+react-learning/
+│
+├── 01-Introduction/
+├── 02-JSX/
+├── 03-Components/
+├── 04-Props/
+├── 05-State/
+├── 06-Events/
+├── 07-Conditional-Rendering/
+├── 08-Lists-and-Keys/
+├── 09-Forms/
+├── 10-Hooks/
+├── 11-React-Router/
+├── 12-API-Integration/
+├── 13-Context-API/
+├── 14-Performance-Optimization/
+├── 15-Project-Structure/
+├── 16-Advanced-Concepts/
+└── 17-Mini-Projects/
+```
+
+---
+
+# 📚 Topics Covered
+
+- ⏳ React Introduction
+- ⏳ JSX
+- ⏳ Components
+- ⏳ Props
+- ⏳ State
+- ⏳ Event Handling
+- ⏳ Conditional Rendering
+- ⏳ Lists & Keys
+- ⏳ Forms
+- ⏳ React Hooks
+- ⏳ React Router
+- ⏳ API Integration
+- ⏳ Context API
+- ⏳ Performance Optimization
+- ⏳ Project Structure
+- ⏳ Advanced React Concepts
+- ⏳ Mini Projects
+
+---
+
+# 💻 Technologies Used
+
+- React 19
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+- Git
+- GitHub
+
+---
+
+# 🎯 Goal
+
+The goal of this repository is to build a strong understanding of React by learning one concept at a time, following best practices, and creating practical mini projects.
+
+---
+
+# 📈 Progress
+
+This repository will be updated regularly as I continue learning React and building new projects.
+
+---
+
+# 👨‍💻 Author
+
+**Abdullah Shabir**
+
+- GitHub: https://github.com/abdullahshabir31
+- LinkedIn: https://www.linkedin.com/in/abdullahshabir31/
+- Portfolio: https://abdullah-shabir-portfolio.vercel.app/
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a ⭐ on GitHub.
