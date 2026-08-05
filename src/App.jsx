@@ -1,7 +1,7 @@
-import WhatIsReact from "./01-Introduction/01-what-is-react";
+import WhyReact from "./01-Introduction/02-why-react";
 
 function App() {
-  return <WhatIsReact />;
+  return <WhyReact />;
 }
 
 export default App;
