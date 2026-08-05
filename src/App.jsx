@@ -1,7 +1,7 @@
-import WhyReact from "./01-Introduction/02-why-react";
+import ReactVsJavaScript from "./01-Introduction/03-react-vs-javascript";
 
 function App() {
-  return <WhyReact />;
+  return <ReactVsJavaScript />;
 }
 
 export default App;
