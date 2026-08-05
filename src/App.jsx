@@ -1,7 +1,7 @@
-import HowReactWorks from "./01-Introduction/04-how-react-works";
+import CreateReactAppVsVite from "./01-Introduction/05-create-react-app-vs-vite";
 
 function App() {
-  return <HowReactWorks />;
+  return <CreateReactAppVsVite />;
 }
 
 export default App;
