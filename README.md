@@ -6,7 +6,7 @@ A structured React learning repository documenting my journey from React fundame
 
 # 📖 About
 
-This repository contains my React practice programs, component-based examples, exercises, and mini projects. Every topic is organized into separate folders, making it easy to learn React step by step while maintaining a clean and well-structured GitHub repository.
+This repository contains my React practice programs, component-based examples, exercises, and mini projects. Every topic is organized into separate folders inside the `src` directory, making it easy to learn React step by step while maintaining a clean and well-structured GitHub repository.
 
 ---
 
@@ -15,31 +15,45 @@ This repository contains my React practice programs, component-based examples, e
 ```text
 react-learning/
 │
-├── 01-Introduction/
-├── 02-JSX/
-├── 03-Components/
-├── 04-Props/
-├── 05-State/
-├── 06-Events/
-├── 07-Conditional-Rendering/
-├── 08-Lists-and-Keys/
-├── 09-Forms/
-├── 10-Hooks/
-├── 11-React-Router/
-├── 12-API-Integration/
-├── 13-Context-API/
-├── 14-Performance-Optimization/
-├── 15-Project-Structure/
-├── 16-Advanced-Concepts/
-└── 17-Mini-Projects/
+├── public/
+│
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   │
+│   ├── 01-Introduction/
+│   ├── 02-JSX/
+│   ├── 03-Components/
+│   ├── 04-Props/
+│   ├── 05-State/
+│   ├── 06-Events/
+│   ├── 07-Conditional-Rendering/
+│   ├── 08-Lists-and-Keys/
+│   ├── 09-Forms/
+│   ├── 10-Hooks/
+│   ├── 11-React-Router/
+│   ├── 12-API-Integration/
+│   ├── 13-Context-API/
+│   ├── 14-Performance-Optimization/
+│   ├── 15-Project-Structure/
+│   ├── 16-Advanced-Concepts/
+│   └── 17-Mini-Projects/
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
 ```
 
 ---
 
 # 📚 Topics Covered
 
-- ⏳ React Introduction
-- ⏳ JSX
+- ✅ React Introduction
+- ✅ JSX
 - ⏳ Components
 - ⏳ Props
 - ⏳ State
@@ -72,13 +86,17 @@ react-learning/
 
 # 🎯 Goal
 
-The goal of this repository is to build a strong understanding of React by learning one concept at a time, following best practices, and creating practical mini projects.
+The goal of this repository is to build a strong understanding of React by learning one concept at a time, following best practices, and creating practical examples and mini projects.
 
 ---
 
 # 📈 Progress
 
-This repository will be updated regularly as I continue learning React and building new projects.
+- ✅ React Introduction Completed
+- ✅ JSX Completed
+- 🚀 Currently Learning: Components
+
+This repository is updated regularly as I continue learning React and building new projects.
 
 ---
 
