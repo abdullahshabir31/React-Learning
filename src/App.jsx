@@ -1,7 +1,7 @@
-import JSXExpressions from "./02-JSX/02-jsx-expressions";
+import JSXAttributes from "./02-JSX/03-jsx-attributes";
 
 function App() {
-  return <JSXExpressions />;
+  return <JSXAttributes />;
 }
 
 export default App;
