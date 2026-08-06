@@ -1,7 +1,7 @@
-import JSXSyntax from "./02-JSX/01-jsx-syntax";
+import JSXExpressions from "./02-JSX/02-jsx-expressions";
 
 function App() {
-  return <JSXSyntax />;
+  return <JSXExpressions />;
 }
 
 export default App;
