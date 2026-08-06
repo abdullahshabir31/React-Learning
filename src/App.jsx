@@ -1,7 +1,7 @@
-import JSXFragments from "./02-JSX/04-jsx-fragments";
+import JSXComments from "./02-JSX/05-jsx-comments";
 
 function App() {
-  return <JSXFragments />;
+  return <JSXComments />;
 }
 
 export default App;
