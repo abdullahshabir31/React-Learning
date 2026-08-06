@@ -1,7 +1,7 @@
-import JSXAttributes from "./02-JSX/03-jsx-attributes";
+import JSXFragments from "./02-JSX/04-jsx-fragments";
 
 function App() {
-  return <JSXAttributes />;
+  return <JSXFragments />;
 }
 
 export default App;
