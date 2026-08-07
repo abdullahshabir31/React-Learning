@@ -1,7 +1,7 @@
-import JSXComments from "./02-JSX/05-jsx-comments";
+import FunctionalComponent from "./03-Components/01-functional-component";
 
 function App() {
-  return <JSXComments />;
+  return <FunctionalComponent />;
 }
 
 export default App;
