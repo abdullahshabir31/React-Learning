@@ -1,7 +1,7 @@
-import NestedComponents from "./03-Components/02-nested-components";
+import ComponentImportExport from "./03-Components/03-component-import-export";
 
 function App() {
-  return <NestedComponents />;
+  return <ComponentImportExport />;
 }
 
 export default App;
