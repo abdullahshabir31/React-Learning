@@ -1,7 +1,7 @@
-import ComponentImportExport from "./03-Components/03-component-import-export";
+import ComponentComposition from "./03-Components/04-component-composition";
 
 function App() {
-  return <ComponentImportExport />;
+  return <ComponentComposition />;
 }
 
 export default App;
