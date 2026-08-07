@@ -1,7 +1,7 @@
-import ComponentComposition from "./03-Components/04-component-composition";
+import ReusableComponents from "./03-Components/05-reusable-components";
 
 function App() {
-  return <ComponentComposition />;
+  return <ReusableComponents />;
 }
 
 export default App;
