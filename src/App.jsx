@@ -1,7 +1,7 @@
-import MultipleProps from "./04-Props/02-multiple-props";
+import PropsDestructuring from "./04-Props/03-props-destructuring";
 
 function App() {
-  return <MultipleProps />;
+  return <PropsDestructuring />;
 }
 
 export default App;
