@@ -1,7 +1,7 @@
-import ReusableComponents from "./03-Components/05-reusable-components";
+import BasicProps from "./04-Props/01-basic-props";
 
 function App() {
-  return <ReusableComponents />;
+  return <BasicProps />;
 }
 
 export default App;
