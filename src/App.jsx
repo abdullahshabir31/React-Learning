@@ -1,7 +1,7 @@
-import PropsDestructuring from "./04-Props/03-props-destructuring";
+import DefaultProps from "./04-Props/04-default-props";
 
 function App() {
-  return <PropsDestructuring />;
+  return <DefaultProps />;
 }
 
 export default App;
