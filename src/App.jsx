@@ -1,7 +1,7 @@
-import DefaultProps from "./04-Props/04-default-props";
+import ChildrenProps from "./04-Props/05-children-props";
 
 function App() {
-  return <DefaultProps />;
+  return <ChildrenProps />;
 }
 
 export default App;
