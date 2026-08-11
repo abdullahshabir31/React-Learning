@@ -109,7 +109,7 @@ This repository is updated regularly as I continue learning React and building n
 
 - GitHub: https://github.com/abdullahshabir31
 - LinkedIn: https://www.linkedin.com/in/abdullahshabir31/
-- Portfolio: https://abdullah-shabir-portfolio.vercel.app/
+- Portfolio: https://abdullah-myportfolio.vercel.app/
 
 ---
 
