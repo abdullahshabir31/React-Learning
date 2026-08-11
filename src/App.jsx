@@ -1,7 +1,7 @@
-import MultipleState from "./05-State/03-multiple-state";
+import StateWithInput from "./05-State/04-state-with-input";
 
 function App() {
-  return <MultipleState />;
+  return <StateWithInput />;
 }
 
 export default App;
