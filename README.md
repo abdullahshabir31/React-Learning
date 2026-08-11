@@ -56,7 +56,7 @@ react-learning/
 - ✅ JSX
 - ✅ Components
 - ✅ Props
-- ⏳ State
+- ✅ State
 - ⏳ Event Handling
 - ⏳ Conditional Rendering
 - ⏳ Lists & Keys
@@ -96,7 +96,8 @@ The goal of this repository is to build a strong understanding of React by learn
 - ✅ JSX Completed
 - ✅ Components Completed
 - ✅ Props Completed
-- 🚀 Currently Learning: State
+- ✅ State Completed
+- 🚀 Currently Learning: Event Handling
 
 This repository is updated regularly as I continue learning React and building new projects.
 
