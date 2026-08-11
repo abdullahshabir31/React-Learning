@@ -1,7 +1,7 @@
-import StateUpdate from "./05-State/02-state-update";
+import MultipleState from "./05-State/03-multiple-state";
 
 function App() {
-  return <StateUpdate />;
+  return <MultipleState />;
 }
 
 export default App;
