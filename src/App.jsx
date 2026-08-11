@@ -1,7 +1,7 @@
-import ChildrenProps from "./04-Props/05-children-props";
+import UseStateExample from "./05-State/01-use-state";
 
 function App() {
-  return <ChildrenProps />;
+  return <UseStateExample />;
 }
 
 export default App;
