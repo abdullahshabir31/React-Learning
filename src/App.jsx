@@ -1,7 +1,7 @@
-import UseStateExample from "./05-State/01-use-state";
+import StateUpdate from "./05-State/02-state-update";
 
 function App() {
-  return <UseStateExample />;
+  return <StateUpdate />;
 }
 
 export default App;
