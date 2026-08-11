@@ -1,7 +1,7 @@
-import StateWithInput from "./05-State/04-state-with-input";
+import StateObject from "./05-State/05-state-object";
 
 function App() {
-  return <StateWithInput />;
+  return <StateObject />;
 }
 
 export default App;
