@@ -1,7 +1,7 @@
-import InputEvent from "./06-Events/04-input-event";
+import FormSubmitEvent from "./06-Events/05-form-submit-event";
 
 function App() {
-  return <InputEvent />;
+  return <FormSubmitEvent />;
 }
 
 export default App;
