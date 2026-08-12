@@ -1,7 +1,7 @@
-import ClickEvent from "./06-Events/01-click-event";
+import MouseEvents from "./06-Events/02-mouse-events";
 
 function App() {
-  return <ClickEvent />;
+  return <MouseEvents />;
 }
 
 export default App;
