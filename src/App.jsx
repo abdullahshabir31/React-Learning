@@ -1,7 +1,7 @@
-import EventObject from "./06-Events/03-event-object";
+import InputEvent from "./06-Events/04-input-event";
 
 function App() {
-  return <EventObject />;
+  return <InputEvent />;
 }
 
 export default App;
