@@ -1,7 +1,7 @@
-import MouseEvents from "./06-Events/02-mouse-events";
+import EventObject from "./06-Events/03-event-object";
 
 function App() {
-  return <MouseEvents />;
+  return <EventObject />;
 }
 
 export default App;
