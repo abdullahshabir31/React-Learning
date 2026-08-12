@@ -1,7 +1,7 @@
-import StateObject from "./05-State/05-state-object";
+import ClickEvent from "./06-Events/01-click-event";
 
 function App() {
-  return <StateObject />;
+  return <ClickEvent />;
 }
 
 export default App;
