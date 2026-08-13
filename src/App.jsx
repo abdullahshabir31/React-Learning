@@ -1,7 +1,7 @@
-import IfElseRendering from "./07-Conditional-Rendering/01-if-else-rendering";
+import TernaryOperator from "./07-Conditional-Rendering/02-ternary-operator";
 
 function App() {
-  return <IfElseRendering />;
+  return <TernaryOperator />;
 }
 
 export default App;
