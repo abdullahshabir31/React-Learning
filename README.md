@@ -58,7 +58,7 @@ react-learning/
 - ✅ Props
 - ✅ State
 - ✅ Event Handling
-- ⏳ Conditional Rendering
+- ✅ Conditional Rendering
 - ⏳ Lists & Keys
 - ⏳ Forms
 - ⏳ React Hooks
@@ -98,7 +98,8 @@ The goal of this repository is to build a strong understanding of React by learn
 - ✅ Props Completed
 - ✅ State Completed
 - ✅ Event Handling Completed
-- 🚀 Currently Learning: Conditional Rendering
+- ✅ Conditional Rendering Completed
+- 🚀 Currently Learning: Lists & Keys
 
 This repository is updated regularly as I continue learning React and building new projects.
 
