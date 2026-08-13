@@ -1,7 +1,7 @@
-import TernaryOperator from "./07-Conditional-Rendering/02-ternary-operator";
+import LogicalAndOperator from "./07-Conditional-Rendering/03-logical-and-operator";
 
 function App() {
-  return <TernaryOperator />;
+  return <LogicalAndOperator />;
 }
 
 export default App;
