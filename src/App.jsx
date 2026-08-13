@@ -1,7 +1,7 @@
-import MultipleConditions from "./07-Conditional-Rendering/04-multiple-conditions";
+import ConditionalComponent from "./07-Conditional-Rendering/05-conditional-component";
 
 function App() {
-  return <MultipleConditions />;
+  return <ConditionalComponent />;
 }
 
 export default App;
