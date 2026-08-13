@@ -1,7 +1,7 @@
-import LogicalAndOperator from "./07-Conditional-Rendering/03-logical-and-operator";
+import MultipleConditions from "./07-Conditional-Rendering/04-multiple-conditions";
 
 function App() {
-  return <LogicalAndOperator />;
+  return <MultipleConditions />;
 }
 
 export default App;
