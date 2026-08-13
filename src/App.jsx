@@ -1,7 +1,7 @@
-import FormSubmitEvent from "./06-Events/05-form-submit-event";
+import IfElseRendering from "./07-Conditional-Rendering/01-if-else-rendering";
 
 function App() {
-  return <FormSubmitEvent />;
+  return <IfElseRendering />;
 }
 
 export default App;
