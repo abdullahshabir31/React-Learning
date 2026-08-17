@@ -1,7 +1,7 @@
-import ListComponent from "./08-Lists-and-Keys/03-list-component";
+import KeyProp from "./08-Lists-and-Keys/04-key-prop";
 
 function App() {
-  return <ListComponent />;
+  return <KeyProp />;
 }
 
 export default App;
