@@ -1,7 +1,7 @@
-import KeyProp from "./08-Lists-and-Keys/04-key-prop";
+import FilterAndRender from "./08-Lists-and-Keys/05-filter-and-render";
 
 function App() {
-  return <KeyProp />;
+  return <FilterAndRender />;
 }
 
 export default App;
