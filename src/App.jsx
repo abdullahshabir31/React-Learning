@@ -1,7 +1,7 @@
-import RenderList from "./08-Lists-and-Keys/01-render-list";
+import ListOfObjects from "./08-Lists-and-Keys/02-list-of-objects";
 
 function App() {
-  return <RenderList />;
+  return <ListOfObjects />;
 }
 
 export default App;
