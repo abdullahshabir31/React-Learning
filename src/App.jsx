@@ -1,7 +1,7 @@
-import ConditionalComponent from "./07-Conditional-Rendering/05-conditional-component";
+import RenderList from "./08-Lists-and-Keys/01-render-list";
 
 function App() {
-  return <ConditionalComponent />;
+  return <RenderList />;
 }
 
 export default App;
