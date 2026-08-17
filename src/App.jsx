@@ -1,7 +1,7 @@
-import ListOfObjects from "./08-Lists-and-Keys/02-list-of-objects";
+import ListComponent from "./08-Lists-and-Keys/03-list-component";
 
 function App() {
-  return <ListOfObjects />;
+  return <ListComponent />;
 }
 
 export default App;
