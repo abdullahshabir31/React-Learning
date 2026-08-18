@@ -60,7 +60,7 @@ react-learning/
 - ✅ Event Handling
 - ✅ Conditional Rendering
 - ✅ Lists & Keys
-- ⏳ Forms
+- ✅ Forms
 - ⏳ React Hooks
 - ⏳ React Router
 - ⏳ API Integration
@@ -100,7 +100,8 @@ The goal of this repository is to build a strong understanding of React by learn
 - ✅ Event Handling Completed
 - ✅ Conditional Rendering Completed
 - ✅ Lists & Keys Completed
-- 🚀 Currently Learning: Forms
+- ✅ Forms Completed
+- 🚀 Currently Learning: React Hooks
 
 This repository is updated regularly as I continue learning React and building new projects.
 
