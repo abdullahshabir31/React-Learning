@@ -1,7 +1,7 @@
-import CheckboxAndRadio from "./09-Forms/04-checkbox-and-radio";
+import SelectAndTextarea from "./09-Forms/05-select-and-textarea";
 
 function App() {
-  return <CheckboxAndRadio />;
+  return <SelectAndTextarea />;
 }
 
 export default App;
