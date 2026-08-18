@@ -1,7 +1,7 @@
-import FormSubmit from "./09-Forms/02-form-submit";
+import MultipleInputs from "./09-Forms/03-multiple-inputs";
 
 function App() {
-  return <FormSubmit />;
+  return <MultipleInputs />;
 }
 
 export default App;
