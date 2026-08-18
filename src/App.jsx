@@ -1,7 +1,7 @@
-import MultipleInputs from "./09-Forms/03-multiple-inputs";
+import CheckboxAndRadio from "./09-Forms/04-checkbox-and-radio";
 
 function App() {
-  return <MultipleInputs />;
+  return <CheckboxAndRadio />;
 }
 
 export default App;
