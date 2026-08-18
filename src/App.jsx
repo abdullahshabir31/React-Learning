@@ -1,7 +1,7 @@
-import ControlledInput from "./09-Forms/01-controlled-input";
+import FormSubmit from "./09-Forms/02-form-submit";
 
 function App() {
-  return <ControlledInput />;
+  return <FormSubmit />;
 }
 
 export default App;
