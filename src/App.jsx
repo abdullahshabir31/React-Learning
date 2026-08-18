@@ -1,7 +1,7 @@
-import FilterAndRender from "./08-Lists-and-Keys/05-filter-and-render";
+import ControlledInput from "./09-Forms/01-controlled-input";
 
 function App() {
-  return <FilterAndRender />;
+  return <ControlledInput />;
 }
 
 export default App;
