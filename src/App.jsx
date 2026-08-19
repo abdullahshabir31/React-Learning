@@ -1,7 +1,7 @@
-import UseMemoHook from "./10-Hooks/04-use-memo-hook";
+import UseCallbackHook from "./10-Hooks/05-use-callback-hook";
 
 function App() {
-  return <UseMemoHook />;
+  return <UseCallbackHook />;
 }
 
 export default App;
