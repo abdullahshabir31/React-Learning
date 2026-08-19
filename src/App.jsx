@@ -1,7 +1,7 @@
-import UseEffectHook from "./10-Hooks/02-use-effect-hook";
+import UseRefHook from "./10-Hooks/03-use-ref-hook";
 
 function App() {
-  return <UseEffectHook />;
+  return <UseRefHook />;
 }
 
 export default App;
