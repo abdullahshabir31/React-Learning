@@ -1,7 +1,7 @@
-import UseRefHook from "./10-Hooks/03-use-ref-hook";
+import UseMemoHook from "./10-Hooks/04-use-memo-hook";
 
 function App() {
-  return <UseRefHook />;
+  return <UseMemoHook />;
 }
 
 export default App;
