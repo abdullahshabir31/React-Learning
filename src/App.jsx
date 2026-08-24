@@ -1,7 +1,7 @@
-import UseLayoutEffect from "./10-Hooks/08-use-layout-effect";
+import CustomHook from "./10-Hooks/09-custom-hook";
 
 function App() {
-  return <UseLayoutEffect />;
+  return <CustomHook />;
 }
 
 export default App;
