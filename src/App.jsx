@@ -1,7 +1,7 @@
-import CustomHook from "./10-Hooks/09-custom-hook";
+import UseIdHook from "./10-Hooks/10-use-id-hook";
 
 function App() {
-  return <CustomHook />;
+  return <UseIdHook />;
 }
 
 export default App;
