@@ -1,7 +1,7 @@
-import UseReducerHook from "./10-Hooks/06-use-reducer-hook";
+import UseContextHook from "./10-Hooks/07-use-context-hook";
 
 function App() {
-  return <UseReducerHook />;
+  return <UseContextHook />;
 }
 
 export default App;
