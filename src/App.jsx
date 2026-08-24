@@ -1,7 +1,7 @@
-import UseCallbackHook from "./10-Hooks/05-use-callback-hook";
+import UseReducerHook from "./10-Hooks/06-use-reducer-hook";
 
 function App() {
-  return <UseCallbackHook />;
+  return <UseReducerHook />;
 }
 
 export default App;
