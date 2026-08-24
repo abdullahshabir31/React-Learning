@@ -1,7 +1,7 @@
-import UseContextHook from "./10-Hooks/07-use-context-hook";
+import UseLayoutEffect from "./10-Hooks/08-use-layout-effect";
 
 function App() {
-  return <UseContextHook />;
+  return <UseLayoutEffect />;
 }
 
 export default App;
