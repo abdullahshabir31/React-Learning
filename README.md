@@ -61,7 +61,7 @@ react-learning/
 - ✅ Conditional Rendering
 - ✅ Lists & Keys
 - ✅ Forms
-- 🚀 React Hooks
+- ✅ React Hooks
 - ⏳ React Router
 - ⏳ API Integration
 - ⏳ Context API
@@ -101,7 +101,8 @@ The goal of this repository is to build a strong understanding of React by learn
 - ✅ Conditional Rendering Completed
 - ✅ Lists & Keys Completed
 - ✅ Forms Completed
-- 🚀 Currently Learning: React Hooks
+- ✅ React Hooks Completed
+- 🚀 Currently Learning: React Router
 
 This repository is updated regularly as I continue learning React and building new projects.
 
