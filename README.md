@@ -62,7 +62,7 @@ react-learning/
 - ✅ Lists & Keys
 - ✅ Forms
 - ✅ React Hooks
-- ⏳ React Router
+- 🚀 React Router
 - ⏳ API Integration
 - ⏳ Context API
 - ⏳ Performance Optimization
