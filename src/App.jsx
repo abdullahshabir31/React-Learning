@@ -1,7 +1,7 @@
-import UseIdHook from "./10-Hooks/10-use-id-hook";
+import BasicRouting from "./11-React-Router/01-basic-routing";
 
 function App() {
-  return <UseIdHook />;
+  return <BasicRouting />;
 }
 
 export default App;
