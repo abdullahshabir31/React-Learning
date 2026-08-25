@@ -1,7 +1,7 @@
-import UseNavigateExample from "./11-React-Router/03-use-navigate";
+import UrlParameters from "./11-React-Router/04-url-parameters";
 
 function App() {
-  return <UseNavigateExample />;
+  return <UrlParameters />;
 }
 
 export default App;
