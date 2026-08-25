@@ -1,7 +1,7 @@
-import UrlParameters from "./11-React-Router/04-url-parameters";
+import NestedRoutes from "./11-React-Router/05-nested-routes";
 
 function App() {
-  return <UrlParameters />;
+  return <NestedRoutes />;
 }
 
 export default App;
