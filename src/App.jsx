@@ -1,7 +1,7 @@
-import Navigation from "./11-React-Router/02-navigation";
+import UseNavigateExample from "./11-React-Router/03-use-navigate";
 
 function App() {
-  return <Navigation />;
+  return <UseNavigateExample />;
 }
 
 export default App;
