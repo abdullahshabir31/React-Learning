@@ -1,7 +1,7 @@
-import BasicRouting from "./11-React-Router/01-basic-routing";
+import Navigation from "./11-React-Router/02-navigation";
 
 function App() {
-  return <BasicRouting />;
+  return <Navigation />;
 }
 
 export default App;
