@@ -1,7 +1,7 @@
-import FetchWithAsyncAwait from "./12-API-Integration/04-fetch-with-async-await";
+import PostRequest from "./12-API-Integration/05-post-request";
 
 function App() {
-  return <FetchWithAsyncAwait />;
+  return <PostRequest />;
 }
 
 export default App;
