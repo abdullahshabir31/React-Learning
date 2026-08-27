@@ -1,7 +1,7 @@
-import LoadingState from "./12-API-Integration/02-loading-state";
+import ErrorHandling from "./12-API-Integration/03-error-handling";
 
 function App() {
-  return <LoadingState />;
+  return <ErrorHandling />;
 }
 
 export default App;
