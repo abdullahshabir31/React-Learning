@@ -1,7 +1,7 @@
-import FetchApi from "./12-API-Integration/01-fetch-api";
+import LoadingState from "./12-API-Integration/02-loading-state";
 
 function App() {
-  return <FetchApi />;
+  return <LoadingState />;
 }
 
 export default App;
