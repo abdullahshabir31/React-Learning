@@ -1,7 +1,7 @@
-import NestedRoutes from "./11-React-Router/05-nested-routes";
+import FetchApi from "./12-API-Integration/01-fetch-api";
 
 function App() {
-  return <NestedRoutes />;
+  return <FetchApi />;
 }
 
 export default App;
