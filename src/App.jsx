@@ -1,7 +1,7 @@
-import ErrorHandling from "./12-API-Integration/03-error-handling";
+import FetchWithAsyncAwait from "./12-API-Integration/04-fetch-with-async-await";
 
 function App() {
-  return <ErrorHandling />;
+  return <FetchWithAsyncAwait />;
 }
 
 export default App;
