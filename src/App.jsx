@@ -1,7 +1,7 @@
-import MultipleContexts from "./13-Context-API/04-multiple-contexts";
+import ContextProviderExample from "./13-Context-API/05-context-provider";
 
 function App() {
-  return <MultipleContexts />;
+  return <ContextProviderExample />;
 }
 
 export default App;
