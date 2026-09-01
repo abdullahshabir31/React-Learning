@@ -1,7 +1,7 @@
-import ContextWithState from "./13-Context-API/03-context-with-state";
+import MultipleContexts from "./13-Context-API/04-multiple-contexts";
 
 function App() {
-  return <ContextWithState />;
+  return <MultipleContexts />;
 }
 
 export default App;
