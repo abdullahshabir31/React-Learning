@@ -1,7 +1,7 @@
-import PostRequest from "./12-API-Integration/05-post-request";
+import CreateContextExample from "./13-Context-API/01-create-context";
 
 function App() {
-  return <PostRequest />;
+  return <CreateContextExample />;
 }
 
 export default App;
