@@ -1,7 +1,7 @@
-import UseContextExample from "./13-Context-API/02-use-context";
+import ContextWithState from "./13-Context-API/03-context-with-state";
 
 function App() {
-  return <UseContextExample />;
+  return <ContextWithState />;
 }
 
 export default App;
