@@ -1,7 +1,7 @@
-import CreateContextExample from "./13-Context-API/01-create-context";
+import UseContextExample from "./13-Context-API/02-use-context";
 
 function App() {
-  return <CreateContextExample />;
+  return <UseContextExample />;
 }
 
 export default App;
