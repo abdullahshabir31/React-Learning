@@ -64,7 +64,7 @@ react-learning/
 - ✅ React Hooks
 - ✅ React Router
 - 🚀 API Integration
-- ⏳ Context API
+- 🚀 Context API
 - ⏳ Performance Optimization
 - ⏳ Project Structure
 - ⏳ Advanced React Concepts
@@ -102,7 +102,8 @@ The goal of this repository is to build a strong understanding of React by learn
 - ✅ Lists & Keys Completed
 - ✅ Forms Completed
 - ✅ React Hooks Completed
-- 🚀 Currently Learning: React Router & API Integration
+- ✅ React Router Completed
+- 🚀 Currently Learning: API Integration & Context API
 
 This repository is updated regularly as I continue learning React and building new projects.
 
