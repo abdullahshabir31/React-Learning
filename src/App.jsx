@@ -1,7 +1,7 @@
-import ReactMemoExample from "./14-Performance-Optimization/01-react-memo";
+import UseMemoOptimization from "./14-Performance-Optimization/02-use-memo-optimization";
 
 function App() {
-  return <ReactMemoExample />;
+  return <UseMemoOptimization />;
 }
 
 export default App;
