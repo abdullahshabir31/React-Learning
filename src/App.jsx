@@ -1,7 +1,7 @@
-import UseCallbackOptimization from "./14-Performance-Optimization/03-use-callback-optimization";
+import ListOptimization from "./14-Performance-Optimization/04-list-optimization";
 
 function App() {
-  return <UseCallbackOptimization />;
+  return <ListOptimization />;
 }
 
 export default App;
