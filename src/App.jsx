@@ -1,7 +1,7 @@
-import ContextProviderExample from "./13-Context-API/05-context-provider";
+import ReactMemoExample from "./14-Performance-Optimization/01-react-memo";
 
 function App() {
-  return <ContextProviderExample />;
+  return <ReactMemoExample />;
 }
 
 export default App;
