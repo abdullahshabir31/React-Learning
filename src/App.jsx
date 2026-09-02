@@ -1,7 +1,7 @@
-import UseMemoOptimization from "./14-Performance-Optimization/02-use-memo-optimization";
+import UseCallbackOptimization from "./14-Performance-Optimization/03-use-callback-optimization";
 
 function App() {
-  return <UseMemoOptimization />;
+  return <UseCallbackOptimization />;
 }
 
 export default App;
