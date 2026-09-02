@@ -1,7 +1,7 @@
-import ListOptimization from "./14-Performance-Optimization/04-list-optimization";
+import LazyLoading from "./14-Performance-Optimization/05-lazy-loading";
 
 function App() {
-  return <ListOptimization />;
+  return <LazyLoading />;
 }
 
 export default App;
