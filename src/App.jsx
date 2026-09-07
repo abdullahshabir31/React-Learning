@@ -1,7 +1,7 @@
-import ReusableComponents from "./15-Project-Structure/02-reusable-components";
+import HomePage from "./15-Project-Structure/03-pages-components";
 
 function App() {
-  return <ReusableComponents />;
+  return <HomePage />;
 }
 
 export default App;
