@@ -1,7 +1,7 @@
-import HomePage from "./15-Project-Structure/03-pages-components";
+import ServiceStructure from "./15-Project-Structure/04-service-structure";
 
 function App() {
-  return <HomePage />;
+  return <ServiceStructure />;
 }
 
 export default App;
