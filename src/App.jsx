@@ -1,7 +1,7 @@
-import LazyLoading from "./14-Performance-Optimization/05-lazy-loading";
+import ComponentStructure from "./15-Project-Structure/01-component-structure";
 
 function App() {
-  return <LazyLoading />;
+  return <ComponentStructure />;
 }
 
 export default App;
